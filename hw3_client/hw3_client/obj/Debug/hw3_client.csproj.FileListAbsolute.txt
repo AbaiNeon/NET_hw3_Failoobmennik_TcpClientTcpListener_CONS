@@ -1,0 +1,12 @@
+c:\users\тогузбаева\documents\visual studio 2017\Projects\hw3_client\hw3_client\bin\Debug\hw3_client.exe.config
+c:\users\тогузбаева\documents\visual studio 2017\Projects\hw3_client\hw3_client\bin\Debug\hw3_client.exe
+c:\users\тогузбаева\documents\visual studio 2017\Projects\hw3_client\hw3_client\bin\Debug\hw3_client.pdb
+c:\users\тогузбаева\documents\visual studio 2017\Projects\hw3_client\hw3_client\obj\Debug\hw3_client.exe
+c:\users\тогузбаева\documents\visual studio 2017\Projects\hw3_client\hw3_client\obj\Debug\hw3_client.pdb
+C:\Users\ТогузбаевА\Desktop\NET_hw3\hw3_client\hw3_client\bin\Debug\hw3_client.exe.config
+C:\Users\ТогузбаевА\Desktop\NET_hw3\hw3_client\hw3_client\bin\Debug\hw3_client.exe
+C:\Users\ТогузбаевА\Desktop\NET_hw3\hw3_client\hw3_client\bin\Debug\hw3_client.pdb
+C:\Users\ТогузбаевА\Desktop\NET_hw3\hw3_client\hw3_client\obj\Debug\hw3_client.csprojResolveAssemblyReference.cache
+C:\Users\ТогузбаевА\Desktop\NET_hw3\hw3_client\hw3_client\obj\Debug\hw3_client.csproj.CoreCompileInputs.cache
+C:\Users\ТогузбаевА\Desktop\NET_hw3\hw3_client\hw3_client\obj\Debug\hw3_client.exe
+C:\Users\ТогузбаевА\Desktop\NET_hw3\hw3_client\hw3_client\obj\Debug\hw3_client.pdb

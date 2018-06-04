@@ -1,0 +1,20 @@
+c:\users\тогузбаева\documents\visual studio 2017\Projects\hw2_server\hw2_server\bin\Debug\hw2_server.exe.config
+c:\users\тогузбаева\documents\visual studio 2017\Projects\hw2_server\hw2_server\bin\Debug\hw2_server.exe
+c:\users\тогузбаева\documents\visual studio 2017\Projects\hw2_server\hw2_server\bin\Debug\hw2_server.pdb
+c:\users\тогузбаева\documents\visual studio 2017\Projects\hw2_server\hw2_server\obj\Debug\hw2_server.csprojResolveAssemblyReference.cache
+c:\users\тогузбаева\documents\visual studio 2017\Projects\hw2_server\hw2_server\obj\Debug\hw2_server.exe
+c:\users\тогузбаева\documents\visual studio 2017\Projects\hw2_server\hw2_server\obj\Debug\hw2_server.pdb
+E:\NET_hw3\hw2_server\hw2_server\bin\Debug\hw2_server.exe.config
+E:\NET_hw3\hw2_server\hw2_server\bin\Debug\hw2_server.exe
+E:\NET_hw3\hw2_server\hw2_server\bin\Debug\hw2_server.pdb
+E:\NET_hw3\hw2_server\hw2_server\obj\Debug\hw2_server.csprojResolveAssemblyReference.cache
+E:\NET_hw3\hw2_server\hw2_server\obj\Debug\hw2_server.csproj.CoreCompileInputs.cache
+E:\NET_hw3\hw2_server\hw2_server\obj\Debug\hw2_server.exe
+E:\NET_hw3\hw2_server\hw2_server\obj\Debug\hw2_server.pdb
+C:\Users\ТогузбаевА\Desktop\NET_hw3\hw2_server\hw2_server\bin\Debug\hw2_server.exe.config
+C:\Users\ТогузбаевА\Desktop\NET_hw3\hw2_server\hw2_server\bin\Debug\hw2_server.exe
+C:\Users\ТогузбаевА\Desktop\NET_hw3\hw2_server\hw2_server\bin\Debug\hw2_server.pdb
+C:\Users\ТогузбаевА\Desktop\NET_hw3\hw2_server\hw2_server\obj\Debug\hw2_server.csprojResolveAssemblyReference.cache
+C:\Users\ТогузбаевА\Desktop\NET_hw3\hw2_server\hw2_server\obj\Debug\hw2_server.csproj.CoreCompileInputs.cache
+C:\Users\ТогузбаевА\Desktop\NET_hw3\hw2_server\hw2_server\obj\Debug\hw2_server.exe
+C:\Users\ТогузбаевА\Desktop\NET_hw3\hw2_server\hw2_server\obj\Debug\hw2_server.pdb
